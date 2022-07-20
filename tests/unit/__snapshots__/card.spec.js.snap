@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Global : renders properly 1`] = `
+<div>
+  <div class="card container">
+    <div class="card-banner-img">i</div>
+    <div class="card-content">
+      <h1 class="card-content-title">title</h1>
+      <p class="card-content-text">
+        content
+      </p>
+      <div class="card-btn"></div>
+    </div>
+  </div>
+</div>
+`;
