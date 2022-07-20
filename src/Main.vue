@@ -65,7 +65,7 @@ export default {
   margin: 1rem 2rem;
   font-family: "ProximaNova-Regular";
   font-size: 1rem;
-  width: 50rem;
+  max-width: 50rem;
   margin: 2rem auto;
   line-height: 1.4rem;
 }
